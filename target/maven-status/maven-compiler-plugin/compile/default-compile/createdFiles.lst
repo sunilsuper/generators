@@ -1,0 +1,5 @@
+com\kafka\json\generator\JsonGenerator.class
+com\kafka\json\generator\JsonFileWriter.class
+com\kafka\json\generator\ReadProducerProperties.class
+com\kafka\json\generator\LoadProperties.class
+com\kafka\json\generator\FileEntity.class
